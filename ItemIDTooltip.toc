@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: ItemIDTooltip
+## Notes: Adds item ID to item tooltips
+## Author: cyaohiri
+## Version: 1.0
+ItemIDTooltip.lua
